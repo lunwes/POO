@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aluno\\Desktop\\POO\\POO_252_noite\\ClasseConta\\ClasseConta.csproj": {}
+    "C:\\Users\\aluno\\Desktop\\POO\\POO_252_noite\\EncapsulamentoProduto\\EncapsulamentoProduto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aluno\\Desktop\\POO\\POO_252_noite\\ClasseConta\\ClasseConta.csproj": {
+    "C:\\Users\\aluno\\Desktop\\POO\\POO_252_noite\\EncapsulamentoProduto\\EncapsulamentoProduto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aluno\\Desktop\\POO\\POO_252_noite\\ClasseConta\\ClasseConta.csproj",
-        "projectName": "ClasseConta",
-        "projectPath": "C:\\Users\\aluno\\Desktop\\POO\\POO_252_noite\\ClasseConta\\ClasseConta.csproj",
+        "projectUniqueName": "C:\\Users\\aluno\\Desktop\\POO\\POO_252_noite\\EncapsulamentoProduto\\EncapsulamentoProduto.csproj",
+        "projectName": "EncapsulamentoProduto",
+        "projectPath": "C:\\Users\\aluno\\Desktop\\POO\\POO_252_noite\\EncapsulamentoProduto\\EncapsulamentoProduto.csproj",
         "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aluno\\Desktop\\POO\\POO_252_noite\\ClasseConta\\obj\\",
+        "outputPath": "C:\\Users\\aluno\\Desktop\\POO\\POO_252_noite\\EncapsulamentoProduto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"

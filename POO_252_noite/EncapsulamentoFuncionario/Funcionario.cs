@@ -8,9 +8,31 @@ namespace EncapsulamentoFuncionario //pasta
     public class Funcionario
     {
         //declaração de atributos
-        private int codigo;
+
+        private int codigo; // atributo
         private string? nome;
         private double salario;
+
+        // declaração dos métodos
+
+        public int Codigo // propriedade
+        {
+            get { return codigo; }
+            set { codigo = value; }
+        }
+        
+        public int Nome
+        {
+            get { return nome; }
+            set { nome = value; }
+        }
+        
+        public int Salario
+        {
+            get { return salario; }
+            set { salario = value; }
+        }
+        
 
         //declaração dos métodos
         public void MostrarAtributos()

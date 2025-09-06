@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using EncapsulamentoFuncionario;
+
+Funcionario f = new Funcionario();
+f.Codigo = 1; // set
+Console.WriteLine("Código: " + f.Codigo); // get
