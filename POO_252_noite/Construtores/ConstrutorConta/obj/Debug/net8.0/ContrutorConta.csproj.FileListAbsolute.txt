@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\POO\POO_252_noite\Construtores\ContrutorConta\obj\Debug\net8.0\ContrutorConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\POO\POO_252_noite\Construtores\ContrutorConta\obj\Debug\net8.0\ContrutorConta.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\POO\POO_252_noite\Construtores\ContrutorConta\obj\Debug\net8.0\ContrutorConta.AssemblyInfo.cs
+C:\Users\aluno\Desktop\POO\POO_252_noite\Construtores\ContrutorConta\obj\Debug\net8.0\ContrutorConta.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\POO\POO_252_noite\Construtores\ContrutorConta\obj\Debug\net8.0\ContrutorConta.sourcelink.json
+C:\Users\aluno\Desktop\POO\POO_252_noite\Construtores\ContrutorConta\bin\Debug\net8.0\ContrutorConta.exe
+C:\Users\aluno\Desktop\POO\POO_252_noite\Construtores\ContrutorConta\bin\Debug\net8.0\ContrutorConta.deps.json
+C:\Users\aluno\Desktop\POO\POO_252_noite\Construtores\ContrutorConta\bin\Debug\net8.0\ContrutorConta.runtimeconfig.json
+C:\Users\aluno\Desktop\POO\POO_252_noite\Construtores\ContrutorConta\bin\Debug\net8.0\ContrutorConta.dll
+C:\Users\aluno\Desktop\POO\POO_252_noite\Construtores\ContrutorConta\bin\Debug\net8.0\ContrutorConta.pdb
+C:\Users\aluno\Desktop\POO\POO_252_noite\Construtores\ContrutorConta\obj\Debug\net8.0\ContrutorConta.dll
+C:\Users\aluno\Desktop\POO\POO_252_noite\Construtores\ContrutorConta\obj\Debug\net8.0\refint\ContrutorConta.dll
+C:\Users\aluno\Desktop\POO\POO_252_noite\Construtores\ContrutorConta\obj\Debug\net8.0\ContrutorConta.pdb
+C:\Users\aluno\Desktop\POO\POO_252_noite\Construtores\ContrutorConta\obj\Debug\net8.0\ContrutorConta.genruntimeconfig.cache
+C:\Users\aluno\Desktop\POO\POO_252_noite\Construtores\ContrutorConta\obj\Debug\net8.0\ref\ContrutorConta.dll
