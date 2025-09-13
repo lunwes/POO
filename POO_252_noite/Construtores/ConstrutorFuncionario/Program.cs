@@ -1,6 +1,6 @@
 ﻿using ConstrutorFuncionario;
 
-Funcionario f1 = new Funcionario();
+Funcionario f1 = new Funcionario(); // método construtor inicializa os atributos
 f1.MostrarAtributos();
 
 Funcionario f2 = new Funcionario(2);
