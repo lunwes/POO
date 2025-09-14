@@ -9,7 +9,7 @@ namespace TrabalhoVetorProduto
     {
         //declaração dos atributos
         public int codigo;
-        public string nome;
+        public string? nome;
         public double preco;
         public int estoque;
         public double subtotal; // não pode digitar
