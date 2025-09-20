@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace TrabalhoAgregaçãoVenda
+namespace TrabalhoAgregacaoVenda
 {
-    public class Produto
+    public class Vendedor
     {
         
     }

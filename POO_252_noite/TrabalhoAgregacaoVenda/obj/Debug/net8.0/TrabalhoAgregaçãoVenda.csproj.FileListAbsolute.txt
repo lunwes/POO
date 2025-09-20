@@ -1,0 +1,5 @@
+C:\Users\aluno\Desktop\POO\POO_252_noite\TrabalhoAgregaçãoVenda\obj\Debug\net8.0\TrabalhoAgregaçãoVenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\POO\POO_252_noite\TrabalhoAgregaçãoVenda\obj\Debug\net8.0\TrabalhoAgregaçãoVenda.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\POO\POO_252_noite\TrabalhoAgregaçãoVenda\obj\Debug\net8.0\TrabalhoAgregaçãoVenda.AssemblyInfo.cs
+C:\Users\aluno\Desktop\POO\POO_252_noite\TrabalhoAgregaçãoVenda\obj\Debug\net8.0\TrabalhoAgregaçãoVenda.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\POO\POO_252_noite\TrabalhoAgregaçãoVenda\obj\Debug\net8.0\TrabalhoAgregaçãoVenda.sourcelink.json

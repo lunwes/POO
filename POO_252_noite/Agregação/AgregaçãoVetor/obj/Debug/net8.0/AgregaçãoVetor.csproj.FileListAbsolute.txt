@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\POO\POO_252_noite\Agregação\AgregaçãoVetor\obj\Debug\net8.0\AgregaçãoVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\POO\POO_252_noite\Agregação\AgregaçãoVetor\obj\Debug\net8.0\AgregaçãoVetor.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\POO\POO_252_noite\Agregação\AgregaçãoVetor\obj\Debug\net8.0\AgregaçãoVetor.AssemblyInfo.cs
+C:\Users\aluno\Desktop\POO\POO_252_noite\Agregação\AgregaçãoVetor\obj\Debug\net8.0\AgregaçãoVetor.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\POO\POO_252_noite\Agregação\AgregaçãoVetor\obj\Debug\net8.0\AgregaçãoVetor.sourcelink.json
+C:\Users\aluno\Desktop\POO\POO_252_noite\Agregação\AgregaçãoVetor\bin\Debug\net8.0\AgregaçãoVetor.exe
+C:\Users\aluno\Desktop\POO\POO_252_noite\Agregação\AgregaçãoVetor\bin\Debug\net8.0\AgregaçãoVetor.deps.json
+C:\Users\aluno\Desktop\POO\POO_252_noite\Agregação\AgregaçãoVetor\bin\Debug\net8.0\AgregaçãoVetor.runtimeconfig.json
+C:\Users\aluno\Desktop\POO\POO_252_noite\Agregação\AgregaçãoVetor\bin\Debug\net8.0\AgregaçãoVetor.dll
+C:\Users\aluno\Desktop\POO\POO_252_noite\Agregação\AgregaçãoVetor\bin\Debug\net8.0\AgregaçãoVetor.pdb
+C:\Users\aluno\Desktop\POO\POO_252_noite\Agregação\AgregaçãoVetor\obj\Debug\net8.0\AgregaçãoVetor.dll
+C:\Users\aluno\Desktop\POO\POO_252_noite\Agregação\AgregaçãoVetor\obj\Debug\net8.0\refint\AgregaçãoVetor.dll
+C:\Users\aluno\Desktop\POO\POO_252_noite\Agregação\AgregaçãoVetor\obj\Debug\net8.0\AgregaçãoVetor.pdb
+C:\Users\aluno\Desktop\POO\POO_252_noite\Agregação\AgregaçãoVetor\obj\Debug\net8.0\AgregaçãoVetor.genruntimeconfig.cache
+C:\Users\aluno\Desktop\POO\POO_252_noite\Agregação\AgregaçãoVetor\obj\Debug\net8.0\ref\AgregaçãoVetor.dll

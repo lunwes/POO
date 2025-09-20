@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aluno\\Desktop\\POO\\POO_252_noite\\TrabalhoAgregaçãoVenda\\TrabalhoAgregaçãoVenda.csproj",
-      "projectName": "TrabalhoAgregaçãoVenda",
-      "projectPath": "C:\\Users\\aluno\\Desktop\\POO\\POO_252_noite\\TrabalhoAgregaçãoVenda\\TrabalhoAgregaçãoVenda.csproj",
+      "projectUniqueName": "C:\\Users\\aluno\\Desktop\\POO\\POO_252_noite\\Agregação\\AgregaçãoVetor\\AgregaçãoVetor.csproj",
+      "projectName": "AgregaçãoVetor",
+      "projectPath": "C:\\Users\\aluno\\Desktop\\POO\\POO_252_noite\\Agregação\\AgregaçãoVetor\\AgregaçãoVetor.csproj",
       "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aluno\\Desktop\\POO\\POO_252_noite\\TrabalhoAgregaçãoVenda\\obj\\",
+      "outputPath": "C:\\Users\\aluno\\Desktop\\POO\\POO_252_noite\\Agregação\\AgregaçãoVetor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
