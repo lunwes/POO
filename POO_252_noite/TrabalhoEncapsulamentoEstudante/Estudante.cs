@@ -20,28 +20,24 @@ namespace TrabalhoEncapsulamentoEstudante
             get { return nota; }
             set
             {
-                if (value < 0 && value > 10)
+                if (value > 0 && value < 10)
                 {
-                    Console.WriteLine("Valor da nota inválido!");
+                    nota = value;
                 }
                 else
-                    nota = value;
+                
+                    Console.WriteLine("\nValor da nota inválido!");
             }
         }
 
         public bool EstaAprovado()
         {
-            if (Nota >= 6)
-            {
-                return true;
-            }
-            else
-                return false;
+           return nota >= 6;
         }
 
         public void ExibirDetalhes()
         {
-            Console.WriteLine("Status: " + EstaAprovado());
+            Console.WriteLine($"\nNome: {Nome} \tNota: {Nota} \tStatus: {(EstaAprovado() ? "Aprovado!" : "Reprovado.")}");
         }
     }
 }
