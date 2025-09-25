@@ -34,11 +34,11 @@ namespace EncapsulamentoConta //namespace é uma pasta
                 titular = value;
             }
         }
-        /*
+        
         public double Saldo{
             set{ saldo = value; }
             get{ return saldo;}
-        }*/
+        }
         public void Sacar(double valorSaque)
         {
             saldo = saldo - valorSaque;

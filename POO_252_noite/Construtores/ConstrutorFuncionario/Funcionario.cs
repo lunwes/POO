@@ -40,7 +40,7 @@ namespace ConstrutorFuncionario
         public void MostrarAtributos()
         {
             Console.WriteLine("Código: " + Codigo +
-            "\tNome: " + Nome + "\tSalário: " + Salario);
+            "\tNome: " + Nome + "\tSalário: " + Salario + "\nQuantidade de Funcionários: " + Contador);
         }
     }
 }
