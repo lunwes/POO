@@ -1,13 +1,19 @@
 ﻿using TrabalhoConstrutorAluno;
 
+Aluno a1 = new Aluno();
+a1.Nome = "ana";
 
+a1.MostrarAtributos();
 
-/* 1570482413000 - primeiro aluno
+Aluno a2 = new Aluno("bia");
 
-1 - Crie a classe aluno (RA, Nome, Contador (static))
-2 - Crie dois construtores, um vazio/padrão e outro com o parâmetro nome
-3 - Use o construtor static para inicializar a variável Contador (LongInt)
-4 - Nos outros construtores incremente o contador e o armazene no atributo Ra
-Implemente o método MostrarAtributo()
-5 - Faça instancias e apresente os atributos
-*/
+a2.MostrarAtributos();
+
+Aluno a3 = new Aluno();
+a3.Nome = "roger";
+
+a3.MostrarAtributos();
+
+Aluno a4 = new Aluno("lucas");
+
+a4.MostrarAtributos();
