@@ -13,9 +13,9 @@ namespace TrabalhoAgregacaoVenda
             Verba = verba;
         }
 
-        public void MostrarAtributos()
+        public void MostrarAtributo()
         {
-            Console.WriteLine("Verba: " + Verba);
+            Console.WriteLine($"Saldo do Comprador: {Verba:c}");
         }
 
         public void SubtrairVerba(double valor)

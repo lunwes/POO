@@ -7,9 +7,23 @@ namespace TrabalhoAgregacaoVenda
 {
     public class Venda
     {
-        public Comprador Comp { get; set; }
-        public Vendedor Vend { get; set; }
-        public List<Produto> VetProd { get; set; }
-         
+        public Comprador? Comp { get; set; }
+        public Vendedor? Vend { get; set; }
+        public List<Produto>? VetProd { get; set; }
+
+        public void MostrarAtributos()
+        {
+            Console.WriteLine("\n=== DADOS DA VENDA ===\n");
+
+            Comp?.MostrarAtributo();
+
+            Vend?.MostrarAtributo();
+
+            Console.WriteLine("Produtos:");
+                foreach (var p in VetProd)
+                {
+                    p.MostrarAtributos();
+                }
+        }
     }
 }

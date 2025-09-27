@@ -1,6 +1,6 @@
 ﻿using AgregacaoConta;
 
-Cliente cli = New Cliente();
+Cliente cli = new Cliente();
 cli.Nome = "Luli";
 cli.Rg = 100;
 
