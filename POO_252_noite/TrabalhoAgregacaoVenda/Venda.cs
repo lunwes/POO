@@ -15,9 +15,9 @@ namespace TrabalhoAgregacaoVenda
         {
             Console.WriteLine("\n=== DADOS DA VENDA ===\n");
 
-            Comp?.MostrarAtributo();
+            Comp.MostrarAtributo();
 
-            Vend?.MostrarAtributo();
+            Vend.MostrarAtributo();
 
             Console.WriteLine("Produtos:");
                 foreach (var p in VetProd)
