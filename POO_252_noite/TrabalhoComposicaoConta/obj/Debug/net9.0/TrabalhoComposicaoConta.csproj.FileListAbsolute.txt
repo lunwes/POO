@@ -1,0 +1,15 @@
+C:\Users\luana\Desktop\POO\POO_252_noite\TrabalhoComposicaoConta\obj\Debug\net9.0\TrabalhoComposicaoConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luana\Desktop\POO\POO_252_noite\TrabalhoComposicaoConta\obj\Debug\net9.0\TrabalhoComposicaoConta.AssemblyInfoInputs.cache
+C:\Users\luana\Desktop\POO\POO_252_noite\TrabalhoComposicaoConta\obj\Debug\net9.0\TrabalhoComposicaoConta.AssemblyInfo.cs
+C:\Users\luana\Desktop\POO\POO_252_noite\TrabalhoComposicaoConta\obj\Debug\net9.0\TrabalhoComposicaoConta.csproj.CoreCompileInputs.cache
+C:\Users\luana\Desktop\POO\POO_252_noite\TrabalhoComposicaoConta\obj\Debug\net9.0\TrabalhoComposicaoConta.sourcelink.json
+C:\Users\luana\Desktop\POO\POO_252_noite\TrabalhoComposicaoConta\bin\Debug\net9.0\TrabalhoComposicaoConta.exe
+C:\Users\luana\Desktop\POO\POO_252_noite\TrabalhoComposicaoConta\bin\Debug\net9.0\TrabalhoComposicaoConta.deps.json
+C:\Users\luana\Desktop\POO\POO_252_noite\TrabalhoComposicaoConta\bin\Debug\net9.0\TrabalhoComposicaoConta.runtimeconfig.json
+C:\Users\luana\Desktop\POO\POO_252_noite\TrabalhoComposicaoConta\bin\Debug\net9.0\TrabalhoComposicaoConta.dll
+C:\Users\luana\Desktop\POO\POO_252_noite\TrabalhoComposicaoConta\bin\Debug\net9.0\TrabalhoComposicaoConta.pdb
+C:\Users\luana\Desktop\POO\POO_252_noite\TrabalhoComposicaoConta\obj\Debug\net9.0\TrabalhoComposicaoConta.dll
+C:\Users\luana\Desktop\POO\POO_252_noite\TrabalhoComposicaoConta\obj\Debug\net9.0\refint\TrabalhoComposicaoConta.dll
+C:\Users\luana\Desktop\POO\POO_252_noite\TrabalhoComposicaoConta\obj\Debug\net9.0\TrabalhoComposicaoConta.pdb
+C:\Users\luana\Desktop\POO\POO_252_noite\TrabalhoComposicaoConta\obj\Debug\net9.0\TrabalhoComposicaoConta.genruntimeconfig.cache
+C:\Users\luana\Desktop\POO\POO_252_noite\TrabalhoComposicaoConta\obj\Debug\net9.0\ref\TrabalhoComposicaoConta.dll

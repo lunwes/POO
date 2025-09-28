@@ -12,7 +12,7 @@ foreach(var item in nf.VetItens)
     item.Mostrar();
 
 // para forçar a destruição do objeto
-nf = null; /* aqui a variável PERDE a referência de memória ficando disponível paa o coletor 
+nf = null; /* aqui a variável PERDE a referência de memória ficando disponível para o coletor 
 de lixo liberar a memória */
 // chamar o coletor de lixo
 GC.Collect(); 

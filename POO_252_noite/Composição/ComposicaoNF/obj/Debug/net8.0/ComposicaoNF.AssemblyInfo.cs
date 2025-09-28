@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ComposicaoNF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a37b9e8996db9c27b98a1711ae199da41d47234f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2ff2da8000946544fe859c74e696c954972fac3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ComposicaoNF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ComposicaoNF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
