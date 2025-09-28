@@ -17,23 +17,20 @@ for (int i = 0; i < 2; i++)
     v1.VetProd.Add(objetoProduto);
 }
 
-Console.WriteLine("\nVenda concluída!\n");
-
 double totalVenda = v1.VetProd.Sum(prod => prod.Preco);
 
 /* 
-prod => prod.Preco é a forma compacta de escrever
+.Sum(prod => prod.Preco); é a forma compacta de escrever
 
     foreach (var prod in v1.VetProd)
     {
         totalVenda += prod.Preco;
     }
-
-o operador => é uma forma compacta de escrever o foreach
 */
 
 if (v1.Comp.Verba >= totalVenda)
 {
+    Console.WriteLine("\nVenda concluída!\n");
     v1.Comp.SubtrairVerba(totalVenda);
     v1.Comp.MostrarAtributo();
 
