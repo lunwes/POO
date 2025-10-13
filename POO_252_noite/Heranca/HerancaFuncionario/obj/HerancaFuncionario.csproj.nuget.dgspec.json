@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aluno\\Desktop\\POO\\POO_252_noite\\Heranca\\HerancaCliente\\HerancaCliente.csproj": {}
+    "C:\\Users\\aluno\\Desktop\\POO\\POO_252_noite\\Heranca\\HerancaFuncionario\\HerancaFuncionario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aluno\\Desktop\\POO\\POO_252_noite\\Heranca\\HerancaCliente\\HerancaCliente.csproj": {
+    "C:\\Users\\aluno\\Desktop\\POO\\POO_252_noite\\Heranca\\HerancaFuncionario\\HerancaFuncionario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aluno\\Desktop\\POO\\POO_252_noite\\Heranca\\HerancaCliente\\HerancaCliente.csproj",
-        "projectName": "HerancaCliente",
-        "projectPath": "C:\\Users\\aluno\\Desktop\\POO\\POO_252_noite\\Heranca\\HerancaCliente\\HerancaCliente.csproj",
+        "projectUniqueName": "C:\\Users\\aluno\\Desktop\\POO\\POO_252_noite\\Heranca\\HerancaFuncionario\\HerancaFuncionario.csproj",
+        "projectName": "HerancaFuncionario",
+        "projectPath": "C:\\Users\\aluno\\Desktop\\POO\\POO_252_noite\\Heranca\\HerancaFuncionario\\HerancaFuncionario.csproj",
         "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aluno\\Desktop\\POO\\POO_252_noite\\Heranca\\HerancaCliente\\obj\\",
+        "outputPath": "C:\\Users\\aluno\\Desktop\\POO\\POO_252_noite\\Heranca\\HerancaFuncionario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"

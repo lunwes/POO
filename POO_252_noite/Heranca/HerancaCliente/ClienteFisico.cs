@@ -14,10 +14,11 @@ namespace HerancaCliente
             set { rg = value; }
         }
 
-        public void Mostrar()
+        public override void Mostrar()
         { /* codigo minusculo tem o modificador de acesso/visibilidade aberto para acessar
         a superclasse, pela palavra reservada protected */
-            Console.WriteLine($"Código: {codigo} \tNome: {nome} \tRG: {Rg}");
+            base.Mostrar(); // apresenta código e nome
+            Console.WriteLine($"RG: {Rg}");
         }
         
     }
