@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\POO\POO_252_noite\ClasseAbistrata\AbistrataCliente\bin\Debug\net8.0\AbistrataCliente.exe
+C:\Users\aluno\Desktop\POO\POO_252_noite\ClasseAbistrata\AbistrataCliente\bin\Debug\net8.0\AbistrataCliente.deps.json
+C:\Users\aluno\Desktop\POO\POO_252_noite\ClasseAbistrata\AbistrataCliente\bin\Debug\net8.0\AbistrataCliente.runtimeconfig.json
+C:\Users\aluno\Desktop\POO\POO_252_noite\ClasseAbistrata\AbistrataCliente\bin\Debug\net8.0\AbistrataCliente.dll
+C:\Users\aluno\Desktop\POO\POO_252_noite\ClasseAbistrata\AbistrataCliente\bin\Debug\net8.0\AbistrataCliente.pdb
+C:\Users\aluno\Desktop\POO\POO_252_noite\ClasseAbistrata\AbistrataCliente\obj\Debug\net8.0\AbistrataCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\POO\POO_252_noite\ClasseAbistrata\AbistrataCliente\obj\Debug\net8.0\AbistrataCliente.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\POO\POO_252_noite\ClasseAbistrata\AbistrataCliente\obj\Debug\net8.0\AbistrataCliente.AssemblyInfo.cs
+C:\Users\aluno\Desktop\POO\POO_252_noite\ClasseAbistrata\AbistrataCliente\obj\Debug\net8.0\AbistrataCliente.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\POO\POO_252_noite\ClasseAbistrata\AbistrataCliente\obj\Debug\net8.0\AbistrataCliente.sourcelink.json
+C:\Users\aluno\Desktop\POO\POO_252_noite\ClasseAbistrata\AbistrataCliente\obj\Debug\net8.0\AbistrataCliente.dll
+C:\Users\aluno\Desktop\POO\POO_252_noite\ClasseAbistrata\AbistrataCliente\obj\Debug\net8.0\refint\AbistrataCliente.dll
+C:\Users\aluno\Desktop\POO\POO_252_noite\ClasseAbistrata\AbistrataCliente\obj\Debug\net8.0\AbistrataCliente.pdb
+C:\Users\aluno\Desktop\POO\POO_252_noite\ClasseAbistrata\AbistrataCliente\obj\Debug\net8.0\AbistrataCliente.genruntimeconfig.cache
+C:\Users\aluno\Desktop\POO\POO_252_noite\ClasseAbistrata\AbistrataCliente\obj\Debug\net8.0\ref\AbistrataCliente.dll
