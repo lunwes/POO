@@ -11,6 +11,7 @@ namespace AbstrataFuncionario
         protected string? nome;
         protected Endereco? endereco;
         protected double salario;
+        public List<Dependente>? VetD { get; set; }
 
         public Funcionario(int codigo, string nome, Endereco endereco, double salario)
         {
