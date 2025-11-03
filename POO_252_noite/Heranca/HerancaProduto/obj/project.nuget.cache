@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "1yjrLD5f0jw=",
+  "dgSpecHash": "IRTDm608Do4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\aluno\\Desktop\\POO\\POO_252_noite\\HerancaProduto\\HerancaProduto.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\luana\\Desktop\\POO\\POO_252_noite\\Heranca\\HerancaProduto\\HerancaProduto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luana\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.14\\microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\luana\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.14\\microsoft.windowsdesktop.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\luana\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.14\\microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\luana\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.14\\microsoft.netcore.app.host.win-x64.8.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

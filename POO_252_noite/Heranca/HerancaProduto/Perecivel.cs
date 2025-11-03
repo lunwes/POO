@@ -25,7 +25,16 @@ namespace HerancaProduto
             get { return lote; }
             set { lote = value; }
         }
-        
-        
+        public Perecivel(int codigo, string nome, double preco, string dataFabricacao, string dataValidade, int lote) : base (codigo, nome, preco)
+        {
+            DataFabricacao = dataFabricacao;
+            DataValidade = dataValidade;
+            Lote = lote;
+        }
+        public override void Mostrar()
+        {
+            base.Mostrar();
+            System.Console.WriteLine($"Data de Fabricação: {dataFabricacao} \tData de Validade: {dataValidade} \tLote: {lote}");
+        }
     }
 }
