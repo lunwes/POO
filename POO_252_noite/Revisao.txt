@@ -1,34 +1,21 @@
-1 Classe - atributo, metodo, instancia
-"Conta c =" (declaraçao de objeto/variavel de instancia do tipo Conta) / "new Conta()" (instanciação)
-metodo construtor inicializa os atributos do objeto, alocando na memoria
-
-2 Vetor de objetos
-
-cada posiçao do vetor o comando new precisa ser usado pois são ocupadas por objetos (new Conta)
-
-a List sempre espera um objeto. o metodo Add precisa de um objeto instanciado.
-
-3 Encapsulamento
-
-quando encapsulados, atributos são representados pelas propriedades. 
-c1.Saldo = 500 (Saldo é uma propriedade e não mais um atributo (que permanece dentro da classe))
-private set = anula o codigo acima e o saldo só pode ser modificado por meio de metodos
-
-4 Metodos
-
-var é um tipo implicito que pode representar qualquer tipo. a variavel não pode ser nula
-
-5 Construtor
-
-NUNCA vai ter retorno. probido a palavra void
-
-6 Agregação/Composição
-
-em Agregação as clases se comunicam de 2 em 2
-
-na Composição os objetos nascem juntos, são instanciados no mesmo momento
-a instancia pode ser rompida, usando o destrutor
-
-Pilares da POO
-
-Encapsulamento
+Herança
+- classe base -> classes derivadas
+- construtor
+    clienteJuridico(atributos) : base 
+- encapsulamento
+    protected (apenas nos atributos da classe base)
+    private (nas classes fisicas)
+- polimorfismo
+    estático (na mesma classe) não tem palavra reservada
+    dinâmico (classes diferentes)
+        tem palavra reservadas:
+            virtual: superclasse
+            override: subclasse (base.Metodo())
+- classe abstrata (não pode ser instanciada)
+    metodos concretos (com lógica)
+    metodo abstrato (não tem logica de programação)
+        programado na classe filha
+- interface
+    metodo publico e abstrato
+- solid
+    
