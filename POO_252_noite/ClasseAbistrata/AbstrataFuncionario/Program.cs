@@ -1,10 +1,10 @@
 ﻿using AbstrataFuncionario;
 
-Endereco e = new Endereco("Terezina", 75, "Vila Paulo Roberto", "Presidente Prudente");
+Endereco e = new Endereco("Terezina", 75, "Vila Paulo Roberto", "PP");
 e.Mostrar();
 
-Assalariado a1 = new Assalariado(1, "Assalariado 1", e, 1000);
-Assalariado a2 = new Assalariado(2, "Assalariado 2", e, 1000);
+Assalariado a1 = new Assalariado(1, "Assalariado 1",e, 1000);
+Assalariado a2 = new Assalariado(2, "Assalariado 2",e, 1000);
 
 Comissionado c1 = new Comissionado(3, "Comissionado 1", e, 1000, 20);
 Comissionado c2 = new Comissionado(4, "Comissionado 2", e, 1000, 30);
@@ -15,15 +15,28 @@ d1.AdmitirFuncionario(a1);
 d1.AdmitirFuncionario(c1);
 d1.Mostrar();
 d1.ListarFuncionarios();
-System.Console.WriteLine($"Total: {d1.CalcularFolha(30):c}");
+Console.WriteLine($"Total {d1.CalcularFolha(30):c}");
 
 Departamento d2 = new Departamento(12, "RH");
 d2.VetF = new List<Funcionario>();
 d2.AdmitirFuncionario(a2);
 d2.AdmitirFuncionario(c2);
 d2.Mostrar();
-System.Console.WriteLine($"Total: {d2.CalcularFolha(30):c}");
+Console.WriteLine($"Total {d2.CalcularFolha(30):c}");
+d2.ListarFuncionarios();
 
+d2.DemitirFuncionario(2); 
 d2.ListarFuncionarios();
-d2.DemitirFuncionario(2); // 2 é o codigo do funcionario a ser excluido
-d2.ListarFuncionarios();
+
+
+Dependente dep1 = new Dependente(1, "João Filho", 12);
+Dependente dep2 = new Dependente(2, "Maria Filha", 12);
+
+a1.AdicionarDependente(dep1);
+a1.AdicionarDependente(dep2);
+
+a1.ListarDependentes();
+a1.MostrarQtdeDependentesFuncionario();
+
+Console.WriteLine("Dependentes do departamento TI:");
+d1.MostrarQtdeDependentesFuncionario();

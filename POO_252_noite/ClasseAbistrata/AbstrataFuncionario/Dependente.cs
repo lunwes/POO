@@ -9,7 +9,7 @@ namespace AbstrataFuncionario
     {
         public int Codigo { get; set; }
         public string? Nome { get; set; }
-        public int idade { get; set; }
+        public int Idade { get; set; }
 
         public Dependente(int codigo, string nome, int idade)
         {
@@ -17,9 +17,11 @@ namespace AbstrataFuncionario
             Nome = nome;
             Idade = idade;
         }
-        public bool VerificarMaiorIdade()
+
+        public bool VerificarMaioridade()
         {
-            
+            return Idade >= 18;
         }
     }
 }
+

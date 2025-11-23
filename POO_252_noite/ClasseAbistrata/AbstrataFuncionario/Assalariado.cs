@@ -7,10 +7,8 @@ namespace AbstrataFuncionario
 {
     public class Assalariado : Funcionario
     {
-        public Assalariado(int codigo, string nome, Endereco endereco, double salario) : 
-        base(codigo, nome, endereco, salario)
+        public Assalariado(int codigo, string nome, Endereco endereco, double salario) : base(codigo, nome, endereco, salario)
         {}
-
         public override double CalcularSalario(int diasUteis)
         {
             return Salario / 30 * diasUteis;

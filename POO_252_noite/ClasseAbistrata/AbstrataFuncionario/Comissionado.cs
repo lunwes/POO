@@ -12,15 +12,15 @@ namespace AbstrataFuncionario
         {
             Porcentagem = porcentagem;
         }
-
         public override double CalcularSalario(int diasUteis)
         {
-            return Salario / 30 * diasUteis * Porcentagem / 100 + Salario;
+            return Salario / 30 * diasUteis * Porcentagem /100 + Salario;
         }
         public override void Mostrar()
         {
             base.Mostrar();
-            System.Console.WriteLine($"Porcentagem: {Porcentagem:n}%");
+            Console.WriteLine($"Porcentagem {Porcentagem:n} %");
         }
     }
 }
+    

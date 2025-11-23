@@ -11,18 +11,17 @@ namespace AbstrataFuncionario
         public int Numero { get; set; }
         public string? Bairro { get; set; }
         public string? Cidade { get; set; }
-
         public Endereco(string rua, int numero, string bairro, string cidade)
-        {
+        {   
             Rua = rua;
             Numero = numero;
             Bairro = bairro;
-            Cidade = cidade;
+            Cidade = cidade;            
         }
         public void Mostrar()
         {
-            System.Console.WriteLine($"Rua: {Rua} \tNumero: {Numero} \tBairro: {Bairro}" + 
-            $"\tCidade {Cidade}");
+            Console.WriteLine("Rua: " + Rua + "\tNúmero: " + Numero + "\tBairro: " + Bairro + "\tCidade: " +
+            Cidade);
         }
     }
 }
